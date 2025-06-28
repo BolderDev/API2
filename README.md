@@ -9,3 +9,4 @@ Add timestamp for clan/friend requests and if possible everything
 - database : contain static data informations & game decoration images
 
 - mariadb : contain MariaDB Table templates (create new DB before creating templates)
+"# API" 

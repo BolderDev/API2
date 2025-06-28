@@ -10,3 +10,4 @@ Add timestamp for clan/friend requests and if possible everything
 
 - mariadb : contain MariaDB Table templates (create new DB before creating templates)
 "# API" 
+"# API" 
